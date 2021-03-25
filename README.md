@@ -1,2 +1,2 @@
-# faq
+# FAQ
 Frequently asked questions
